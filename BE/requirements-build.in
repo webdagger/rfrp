@@ -1,1 +1,9 @@
 face_recognition
+mongoengine
+starlette
+databases
+uvicorn
+pillow
+sentry-sdk
+marshmallow
+python-multipart
